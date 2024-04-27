@@ -1,0 +1,10 @@
+Lang_001=123
+Lang_002=345
+Lang_003=5677
+Lang_004=5678
+Lang_005=886
+Lang_006=2313
+Lang_007=adfav
+Lang_008=cdfa
+Lang_009=Bmenu
+Lang_010=Bfont

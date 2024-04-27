@@ -1,0 +1,8 @@
+Lang_001=·¢´ïÊæ·þ
+Lang_002=fafaf
+Lang_004=faads
+Lang_005=a
+Lang_006=sfda
+Lang_008=agergsb
+Lang_009=Cmenu
+Lang_010=Cfont

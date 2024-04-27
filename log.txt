@@ -1,0 +1,108 @@
+已启动生成…
+1>------ 已启动生成: 项目: QtTest, 配置: Release x64 ------
+1>main.cpp
+1>QChangeTipBtn.cpp
+1>QCustomerWgt.cpp
+1>QStyleSheetManage.cpp
+1>E:\Work\CVSTest\QtTest\main.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>E:\Work\CVSTest\QtTest\QChangeTipBtn.h(3,10): fatal error C1083: 无法打开包括文件: “QPushButton”: No such file or directory (编译源文件 QChangeTipBtn.cpp)
+1>E:\Work\CVSTest\QtTest\QCustomerWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QCustomerWgt.cpp)
+1>QTestWgt.cpp
+1>E:\Work\CVSTest\QtTest\QTestWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QTestWgt.cpp)
+1>E:\Work\CVSTest\QtTest\QStyleSheetManage.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>已完成生成项目“QtTest.vcxproj”的操作 - 失败。
+========== 生成: 成功 0 个，失败 1 个，最新 2 个，跳过 0 个 ==========
+
+已启动生成…
+1>------ 已启动生成: 项目: CVSTest, 配置: Release Win32 ------
+1>CVSTest.cpp
+1>正在生成代码
+1>Previous IPDB not found, fall back to full compilation.
+1>All 366 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+1>已完成代码的生成
+1>CVSTest.vcxproj -> E:\Work\CVSTest\Release\CVSTest.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+已启动生成…
+========== 生成: 成功 0 个，失败 0 个，最新 1 个，跳过 0 个 ==========
+
+已启动生成…
+1>------ 已启动生成: 项目: QtTest, 配置: Release x64 ------
+1>main.cpp
+1>QChangeTipBtn.cpp
+1>QCustomerWgt.cpp
+1>QStyleSheetManage.cpp
+1>E:\Work\CVSTest\QtTest\main.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>E:\Work\CVSTest\QtTest\QCustomerWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QCustomerWgt.cpp)
+1>E:\Work\CVSTest\QtTest\QChangeTipBtn.h(3,10): fatal error C1083: 无法打开包括文件: “QPushButton”: No such file or directory (编译源文件 QChangeTipBtn.cpp)
+1>QTestWgt.cpp
+1>E:\Work\CVSTest\QtTest\QTestWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QTestWgt.cpp)
+1>E:\Work\CVSTest\QtTest\QStyleSheetManage.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>已完成生成项目“QtTest.vcxproj”的操作 - 失败。
+========== 生成: 成功 0 个，失败 1 个，最新 2 个，跳过 0 个 ==========
+
+已启动生成…
+1>------ 已启动生成: 项目: QtTest, 配置: Release x64 ------
+1>main.cpp
+1>QChangeTipBtn.cpp
+1>QCustomerWgt.cpp
+1>QStyleSheetManage.cpp
+1>E:\Work\CVSTest\QtTest\main.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>QTestWgt.cpp
+1>E:\Work\CVSTest\QtTest\QCustomerWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QCustomerWgt.cpp)
+1>E:\Work\CVSTest\QtTest\QChangeTipBtn.h(3,10): fatal error C1083: 无法打开包括文件: “QPushButton”: No such file or directory (编译源文件 QChangeTipBtn.cpp)
+1>E:\Work\CVSTest\QtTest\QTestWgt.h(3,10): fatal error C1083: 无法打开包括文件: “QWidget”: No such file or directory (编译源文件 QTestWgt.cpp)
+1>E:\Work\CVSTest\QtTest\QStyleSheetManage.cpp(2,10): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+1>已完成生成项目“QtTest.vcxproj”的操作 - 失败。
+========== 生成: 成功 0 个，失败 1 个，最新 2 个，跳过 0 个 ==========
+
+已启动生成…
+========== 生成: 成功 0 个，失败 0 个，最新 3 个，跳过 0 个 ==========
+
+已启动生成…
+1>------ 已启动生成: 项目: CVSTest, 配置: Debug x64 ------
+2>------ 已启动生成: 项目: QtTest, 配置: Debug x64 ------
+3>------ 已启动生成: 项目: MyTabWidget, 配置: Debug x64 ------
+2>Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/bin/qmake)
+3>Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/bin/qmake)
+1>CVSTest.cpp
+1>CVSTest.vcxproj -> E:\Work\CVSTest\x64\Debug\CVSTest.exe
+3>Generate moc_predefs.h
+2>moc QTestWgt.h
+2>moc QChangeTipBtn.h
+2>moc QCustomerWgt.h
+3>Uic'ing mainwindow.ui...
+3>Moc'ing MyTabBar.h...
+3>Moc'ing MyTabPage.h...
+3>Moc'ing MyTabPopup.h...
+2>main.cpp
+2>QChangeTipBtn.cpp
+3>Moc'ing MyTabWidget.h...
+3>Moc'ing mainwindow.h...
+2>QCustomerWgt.cpp
+2>QStyleSheetManage.cpp
+2>QTestWgt.cpp
+3>MyTabBar.cpp
+3>MyTabPage.cpp
+3>MyTabPopup.cpp
+3>MyTabWidget.cpp
+3>main.cpp
+3>mainwindow.cpp
+2>moc_QTestWgt.cpp
+2>moc_QChangeTipBtn.cpp
+2>moc_QCustomerWgt.cpp
+3>moc_MyTabBar.cpp
+3>moc_MyTabPage.cpp
+3>moc_MyTabPopup.cpp
+3>moc_MyTabWidget.cpp
+2>QtTest.vcxproj -> E:\Work\CVSTest\x64\Debug\QtTest.exe
+3>moc_mainwindow.cpp
+3>MyTabWidget.vcxproj -> E:\Work\MyTabWidget\debug\MyTabWidget.exe
+========== 生成: 成功 3 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+已启动生成…
+========== 生成: 成功 0 个，失败 0 个，最新 3 个，跳过 0 个 ==========
+
+已启动生成…
+========== 生成: 成功 0 个，失败 0 个，最新 3 个，跳过 0 个 ==========
+

@@ -1,0 +1,10 @@
+Lang_001=china
+Lang_002=Amer
+Lang_003=hi
+Lang_004=oooo
+Lang_005=aaaaa
+Lang_006=111
+Lang_007=222
+Lang_008=3333
+Lang_009=Amen
+Lang_010=Afont

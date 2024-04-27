@@ -1,0 +1,10 @@
+Lang_001=china beijing
+Lang_002=USA
+Lang_003=hello
+Lang_004=haha
+Lang_005=truan
+Lang_006=content
+Lang_007=open
+Lang_008=close
+Lang_009=menu
+Lang_010=font
